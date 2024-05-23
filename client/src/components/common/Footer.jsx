@@ -55,7 +55,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            Mustafa Rahman
           </a>
         </Typography>
       </Paper>
